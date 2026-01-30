@@ -1,4 +1,4 @@
-# CS-5588-Week-1-MiniRAG
+# CS-5588-Weekly-Assignments
 
 - **Name:** Nithin Songala
 - **Major:** Data Science
